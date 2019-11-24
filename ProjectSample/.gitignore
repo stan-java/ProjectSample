@@ -3,5 +3,6 @@ build/
 #ignore folder data 
 dist/
 #ignore log files 
-*.0.log
+nbproject/*.xml
+
 
