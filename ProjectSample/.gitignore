@@ -3,4 +3,5 @@ build/
 #ignore folder data 
 dist/
 #ignore log files 
-*.log
+*.0.log
+
