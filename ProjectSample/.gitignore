@@ -1,0 +1,6 @@
+# ignore folder build 
+build/
+#ignore folder data 
+dist/
+#ignore log files 
+log/*.log
