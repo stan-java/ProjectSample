@@ -5,7 +5,7 @@ dist/
 #ignore log files 
 *.log
 
-src/main/resources/dat/
+src/**/dat/
 
 
 
